@@ -1,0 +1,41 @@
+[
+  {
+    "id": "q1",
+    "category": "Supply Chain Authenticity",
+    "question": "Do you possess wholesale invoices from authorized distributors for all ASINs you currently list as 'New'?",
+    "options": [
+      { "text": "Yes, for all ASINs.", "riskScore": 0 },
+      { "text": "Only for some ASINs.", "riskScore": 5 },
+      { "text": "No, I use retail receipts or dropshipping.", "riskScore": 10 }
+    ]
+  },
+  {
+    "id": "q2",
+    "category": "Account Health Metrics",
+    "question": "What is your current Order Defect Rate (ODR)?",
+    "options": [
+      { "text": "Under 1%", "riskScore": 0 },
+      { "text": "Exactly 1% or slightly fluctuating", "riskScore": 4 },
+      { "text": "Consistently over 1%", "riskScore": 10 }
+    ]
+  },
+  {
+    "id": "q3",
+    "category": "Related Accounts (Section 3)",
+    "question": "Have you ever accessed your Amazon Seller account using a public Wi-Fi network, or shared login credentials with virtual assistants who manage other seller accounts?",
+    "options": [
+      { "text": "No, we use dedicated IP and strict user permissions.", "riskScore": 0 },
+      { "text": "Yes, we share logins or use public Wi-Fi.", "riskScore": 8 }
+    ]
+  },
+  {
+    "id": "q4",
+    "category": "Intellectual Property",
+    "question": "Have you received any suspected or actual Intellectual Property (IP) complaints in the last 180 days?",
+    "options": [
+      { "text": "Zero complaints.", "riskScore": 0 },
+      { "text": "1-2 suspected complaints, successfully appealed.", "riskScore": 3 },
+      { "text": "Unresolved IP complaints currently on the dashboard.", "riskScore": 9 }
+    ]
+  }
+]
