@@ -1,0 +1,4 @@
+.gemini
+.env
+*.log
+scratch/
