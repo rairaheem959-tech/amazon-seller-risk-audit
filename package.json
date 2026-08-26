@@ -1,0 +1,39 @@
+{
+  "name": "amazon-seller-risk-audit",
+  "version": "1.0.0",
+  "description": "Open-source Amazon seller account risk audit engine with policy scoring logic for Section 3, IP, dropshipping, and OTDR violations.",
+  "main": "src/logic.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "amazon",
+    "seller-central",
+    "risk-audit",
+    "amazon-policy",
+    "ecommerce",
+    "compliance",
+    "section3",
+    "dropshipping",
+    "account-health"
+  ],
+  "author": "rairaheem959-tech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rairaheem959-tech/amazon-seller-risk-audit.git"
+  },
+  "homepage": "https://elitereinstatementpros.com/account-risk-audit/",
+  "bugs": {
+    "url": "https://github.com/rairaheem959-tech/amazon-seller-risk-audit/issues"
+  },
+  "files": [
+    "src/",
+    "data/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
