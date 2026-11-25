@@ -8,7 +8,7 @@
 
 ## Why This Matters
 
-Over **2 million Amazon sellers** risk account suspension every year due to policy violations they are not even aware of. Amazon enforcement is opaque and unpredictable. This project open-sources the core risk-scoring logic so any developer, agency, or seller can build their own diagnostic tools on top of it.
+Amazon's policies and enforcement change over time, so no self-assessment can predict an account decision. Amazon enforcement is opaque and unpredictable. This project open-sources the core risk-scoring logic so any developer, agency, or seller can build their own diagnostic tools on top of it.
 
 ## Features
 
