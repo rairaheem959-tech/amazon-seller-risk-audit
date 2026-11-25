@@ -22,10 +22,10 @@
   {
     "id": "q3",
     "category": "Related Accounts (Section 3)",
-    "question": "Have you ever accessed your Amazon Seller account using a public Wi-Fi network, or shared login credentials with virtual assistants who manage other seller accounts?",
+    "question": "Do you share your Seller Central login with people who also manage other seller accounts, such as virtual assistants or agencies?",
     "options": [
       { "text": "No, we use dedicated IP and strict user permissions.", "riskScore": 0 },
-      { "text": "Yes, we share logins or use public Wi-Fi.", "riskScore": 8 }
+      { "text": "Yes, we share our login with other people.", "riskScore": 8 }
     ]
   },
   {
