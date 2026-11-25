@@ -70,4 +70,4 @@ This engine can be embedded in:
 MIT License - free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
 ---
-*This engine powers the live Risk Audit tool at [Elite Reinstatement Pros](https://elitereinstatementpros.com/account-risk-audit/)*
+*The live Risk Audit tool at [Elite Reinstatement Pros](https://elitereinstatementpros.com/account-risk-audit/)*
