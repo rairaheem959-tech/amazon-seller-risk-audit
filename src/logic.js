@@ -48,7 +48,7 @@ class RiskAuditEngine {
     getRiskLevel(percentage) {
         if (percentage < 20) return "LOW RISK - Account is currently healthy.";
         if (percentage < 50) return "MEDIUM RISK - Review compliance documentation immediately.";
-        return "HIGH RISK - Immediate danger of Section 3 or Policy Suspension.";
+        return "HIGH RISK - Several areas need attention. Review them first. This is a self-assessment, not a prediction of Amazon's decision.";
     }
 }
 
